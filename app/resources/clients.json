@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Ionut Popescu",
+        "phoneNumber": "0727000000",
+        "email": "ionut.popescu@gmail.com",
+        "county": "Bucuresti",
+        "city": "Sectorul 2",
+        "address": "Strada Lalelelor, Nr. 5",
+        "postalCode": "020123"
+    },
+    {
+        "id": 2,
+        "name": "Liviu Niculae",
+        "phoneNumber": "0727000001",
+        "email": "liviu.niculae@gmail.com",
+        "county": "Cluj",
+        "city": "Cluj-Napoca",
+        "address": "Strada Dovlecilor, Nr. 10",
+        "postalCode": "100012"
+    },
+    {
+        "id": 3,
+        "name": "Denisa Zlatan",
+        "phoneNumber": "0727000002",
+        "email": "denisa.zlatan@gmail.com",
+        "county": "Bucuresti",
+        "city": "Sectorul 3",
+        "address": "Strada Cartofilor, Nr. 2",
+        "postalCode": "020124"
+    },
+    {
+        "id": 4,
+        "name": "Nicoleta Toma",
+        "phoneNumber": "0727000003",
+        "email": "nicoleta.toma@gmail.com",
+        "county": "Arges",
+        "city": "Pitesti",
+        "address": "Strada Micuneltelor, Nr. 22",
+        "postalCode": "102015"
+    },
+    {
+        "id": 5,
+        "name": "Toma Tomescu",
+        "phoneNumber": "0727000004",
+        "email": "toma.tomescu@gmail.com",
+        "county": "Prahova",
+        "city": "Ploiesti",
+        "address": "Strada Teraselor, Nr. 45",
+        "postalCode": "204010"
+    }
+]

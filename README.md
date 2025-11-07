@@ -1,0 +1,20 @@
+# Sameday AWB Management (React Admin)
+
+1) How to run the app
+```
+cd app
+npm install
+npm run dev
+```
+Open http://localhost:5173
+
+## Login
+Use the login page to authenticate.
+
+## Features
+- React Admin resources: AWBs, Pickup Points, Products, Clients;
+- AWB list filter by date (YYYY-MM-DD);
+- Create AWB via multi-step wizard;
+- Pickup Points: list + create.
+
+Documentation: `https://sameday-api.demo.zitec.com/documentation/client`

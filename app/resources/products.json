@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop Dell",
+        "price": 2500,
+        "weight": 2
+    },
+    {
+        "id": 2,
+        "name": "Monitor Samsung",
+        "price": 800,
+        "weight": 3.5
+    },
+    {
+        "id": 3,
+        "name": "Keyboard Logitech",
+        "price": 150,
+        "weight": 0.5
+    }
+]
