@@ -1,6 +1,7 @@
 # Sameday AWB Management (React Admin)
+This is a custom AWB management system built using React-Admin and Cursor AI. The app is communicating with Sameday's API, Sameday being a Romanian delivery company.
 
-1) How to run the app
+## How to run the app
 ```
 cd app
 npm install
